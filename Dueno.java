@@ -101,8 +101,8 @@ public class Dueno {
 
     public String toString() {
         return "Nombre: " + getNombreCompleto()
-             + " Telefono: " + telefono
-             + " Email: " + email
-             + " Cedula: " + cedula;
+             + "Telefono: " + telefono
+             + "Email: " + email
+             + "Cedula: " + cedula;
     }
 }
